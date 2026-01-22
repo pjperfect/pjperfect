@@ -39,39 +39,27 @@
 
 <div align="left">
   <a href="https://www.youtube.com/@cekztech">
-    <span>
-      <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&color=FF0000&style=for-the-badge" height="35" />
-    </span>
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&color=FF0000&style=for-the-badge" height="35" />
   </a>
 
   <a href="mailto:pjole.kenya@gmail.com">
-    <span>
-      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="35" />
-    </span>
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="35" />
   </a>
 
   <a href="https://www.linkedin.com/in/pjperfect">
-    <span>
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="35" />
-    </span>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="35" />
   </a>
 
   <a href="https://www.facebook.com/pjole00/">
-    <span>
-      <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&color=1877F2&style=for-the-badge" height="35" />
-    </span>
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&color=1877F2&style=for-the-badge" height="35" />
   </a>
 
   <a href="https://stackoverflow.com/users/32247993/philip-olembo">
-    <span>
-      <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&color=FE7A16&style=for-the-badge" height="35" />
-    </span>
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&color=FE7A16&style=for-the-badge" height="35" />
   </a>
 
   <a href="https://wa.me/254715556379">
-    <span>
-      <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&color=25D366&style=for-the-badge" height="35" />
-    </span>
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&color=25D366&style=for-the-badge" height="35" />
   </a>
 </div>
 
