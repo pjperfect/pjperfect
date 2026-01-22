@@ -38,28 +38,40 @@
 ###
 
 <div align="left">
-  <a href="https://www.youtube.com/@cekztech" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
+  <a href="https://www.youtube.com/@cekztech">
+    <span>
+      <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&color=FF0000&style=for-the-badge" height="35" />
+    </span>
   </a>
 
-  <a href="mailto:pjole.kenya@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  <a href="mailto:pjole.kenya@gmail.com">
+    <span>
+      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="35" />
+    </span>
   </a>
 
-  <a href="https://www.linkedin.com/in/pjperfect" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  <a href="https://www.linkedin.com/in/pjperfect">
+    <span>
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="35" />
+    </span>
   </a>
 
-  <a href="https://www.facebook.com/pjole00/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
+  <a href="https://www.facebook.com/pjole00/">
+    <span>
+      <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&color=1877F2&style=for-the-badge" height="35" />
+    </span>
   </a>
 
-  <a href="https://stackoverflow.com/users/32247993/philip-olembo" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo" />
+  <a href="https://stackoverflow.com/users/32247993/philip-olembo">
+    <span>
+      <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&color=FE7A16&style=for-the-badge" height="35" />
+    </span>
   </a>
 
-  <a href="https://wa.me/254715556379" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" />
+  <a href="https://wa.me/254715556379">
+    <span>
+      <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&color=25D366&style=for-the-badge" height="35" />
+    </span>
   </a>
 </div>
 
