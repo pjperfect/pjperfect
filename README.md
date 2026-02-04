@@ -4,8 +4,7 @@
 
 <img align="right" height="150" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Pastorchris.jpg/500px-Pastorchris.jpg" alt="Pastor Chris" />
 
-> ## “If you stick to the Word, you will come back with a testimony!”
->
+> ### “If you stick to the Word, you will come back with a testimony!”
 > — Pastor Chris Oyakhilome
 
 <br clear="right" />
