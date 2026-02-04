@@ -2,7 +2,7 @@
 
 <br/>
 
-<img align="right" height="150" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Pastorchris.jpg/500px-Pastorchris.jpg" alt="Pastor Chris" />
+<img align="right" height="250" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Pastorchris.jpg/500px-Pastorchris.jpg" alt="Pastor Chris" />
 
 > ### “If you stick to the Word, you will come back with a testimony!”
 > — Pastor Chris Oyakhilome
@@ -20,7 +20,6 @@
 [![Babel](https://img.shields.io/badge/Babel-F9DC3E.svg?style=for-the-badge&logo=babel&logoColor=black)](https://babeljs.io/)
 [![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
-
 [![AutoCAD](https://img.shields.io/badge/AutoCAD-E60000.svg?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/autocad/overview)
 [![MATLAB](https://img.shields.io/badge/MATLAB-FF6600.svg?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
 [![vMix](https://img.shields.io/badge/vMix-1E90FF.svg?style=for-the-badge&logo=livechat&logoColor=white)](https://www.vmix.com/)
