@@ -1,6 +1,8 @@
 <h2 align="left">I'm a Software Engineer from Moringa School in Nairobi, Kenya with an Electrical & Electronics Degree from Eastern Mediterranean University</h2>
 
-<img align="right" height="150" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Pastorchris.jpg/500px-Pastorchris.jpg" alt="photo" />
+<div align="center">
+  <img height="180" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Pastorchris.jpg/500px-Pastorchris.jpg" alt="Pastor Chris" />
+</div>
 
 > “If you stick to the Word, you will come back with a testimony!”
 
@@ -24,12 +26,10 @@
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16.svg?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/32247993/philip-olembo)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254715556379)
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=pjperfect&theme=dracula&hide_border=false&show_icons=true)
-<br/>
-![](https://streak-stats.demolab.com?user=pjperfect&theme=dracula&hide_border=false)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pjperfect&theme=dracula&hide_border=false&layout=compact)
+## 🚀 What I’m working on
+- Building full-stack web apps and growing my portfolio
+- Interested in streaming/video platforms, real-time apps, and scalable systems
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 📌 Featured projects
+- [JS Calculator](https://github.com/pjperfect/js-calculator) — A JavaScript calculator app.
+- [MeterLink](https://github.com/pjperfect/meterlink) — Electricity token / meter tracking project.
