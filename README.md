@@ -4,7 +4,7 @@
 
 > “If you stick to the Word, you will come back with a testimony!”
 >
-> — [Quote attribution]
+> — Pastor Chris Oyakhilome
 
 <br clear="right" />
 
