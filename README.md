@@ -2,9 +2,8 @@
 
 <img align="right" height="190" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Pastorchris.jpg/500px-Pastorchris.jpg" alt="Quote image" />
 
-> “If you stick to the Word, you will come back with a testimony!”
->
-> — Pastor Chris Oyakhilome
+## “If you stick to the Word, you will come back with a testimony!”
+— Pastor Chris Oyakhilome
 
 <br clear="right" />
 
@@ -20,6 +19,11 @@
 [![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 
+[![AutoCAD](https://img.shields.io/badge/AutoCAD-E60000.svg?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/autocad/overview)
+[![MATLAB](https://img.shields.io/badge/MATLAB-FF6600.svg?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
+[![vMix](https://img.shields.io/badge/vMix-1E90FF.svg?style=for-the-badge&logo=livechat&logoColor=white)](https://www.vmix.com/)
+[![EasyWorship](https://img.shields.io/badge/EasyWorship-6A5ACD.svg?style=for-the-badge&logo=windows&logoColor=white)](https://www.easyworship.com/)
+
 ## 🌐 Socials
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@cekztech)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pjole.kenya@gmail.com)
@@ -28,9 +32,10 @@
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16.svg?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/32247993/philip-olembo)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254715556379)
 
-## 🚀 What I’m working on
-- Building full-stack web apps and growing my portfolio
-- Interested in streaming/video platforms, real-time apps, and scalable systems
+## 🚀 Skills
+- Building full-stack web apps
+- Streaming/video platforms
+- Graphics design
 
 ## 📌 Featured projects
 - [JS Calculator](https://github.com/pjperfect/js-calculator) — A JavaScript calculator app.
