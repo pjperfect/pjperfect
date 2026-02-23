@@ -44,5 +44,5 @@
 
 ## 📌 Featured projects
 
-- [JS Calculator](https://github.com/pjperfect/js-calculator) — A JavaScript calculator app.
+- [Custom DP Twibbon](https://github.com/pjperfect/dp-flyer-generator) — A Day of Blessings Utawala Outreach by Mimshac Senior Cell Twibbon.
 - [MeterLink](https://github.com/pjperfect/meterlink) — Electricity token / meter tracking project.
