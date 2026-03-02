@@ -44,5 +44,6 @@
 
 ## 📌 Featured projects
 
-- [Custom DP Twibbon](https://github.com/pjperfect/dp-flyer-generator) — A Day of Blessings Utawala Outreach by Mimshac Senior Cell Twibbon.
 - [MeterLink](https://github.com/pjperfect/meterlink) — Electricity token / meter tracking project.
+- [MeterLink CLI](https://github.com/pjperfect/meterlink-cli) — Electricity token / meter tracking project (CLI version).
+- [Custom DP Twibbon](https://github.com/pjperfect/dp-flyer-generator) — A Day of Blessings Utawala Outreach by Mimshac Senior Cell Twibbon.
