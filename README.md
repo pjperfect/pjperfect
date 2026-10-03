@@ -44,6 +44,6 @@
 
 ## 📌 Featured projects
 
-- [MeterLink](https://github.com/pjperfect/meterlink) — Electricity token / meter tracking project.
-- [MeterLink CLI](https://github.com/pjperfect/meterlink-cli) — Electricity token / meter tracking project (CLI version).
-- [Custom DP Twibbon](https://github.com/pjperfect/dp-flyer-generator) — A Day of Blessings Utawala Outreach by Mimshac Senior Cell Twibbon.
+- [MeterLink](https://meterlink.vercel.app/) - Electricity token / meter tracking project.
+- [Vision360](https://vision-360-client-frontend.vercel.app/) - Full-stack booking platform for creative spaces, with 360° virtual tours, M-Pesa, PayPal and bank payments, and secure login.
+- [Portfolio](https://pjperfect.github.io/portfolio/) — My personal portfolio showing my software projects, gigs, designs and live streaming work.
