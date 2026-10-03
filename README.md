@@ -49,5 +49,5 @@
 ## Featured projects
 
 - [MeterLink](https://meterlink.vercel.app/) — React app that turns pasted KPLC prepaid electricity SMS tokens into spend and usage dashboards.
-- [Vision360](https://vision-360-client-frontend.vercel.app/) — Full-stack booking platform for creative spaces, with 360° virtual tours, M-Pesa, PayPal and bank payments, alongside secure login.
+- [vision360](https://vision-360-client-frontend.vercel.app/) — Full-stack booking platform for creative spaces, with 360° virtual tours, M-Pesa, PayPal and bank payments, alongside secure login.
 - [Portfolio](https://pjperfect.github.io/portfolio/) — My personal portfolio showing my software projects, gigs, designs and live streaming work.
