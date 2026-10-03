@@ -38,9 +38,13 @@
 
 ## Skills
 
-- Building full-stack web apps
-- Streaming/video platforms
-- Graphics design
+- Building full-stack web apps with React, Node.js, Express, Flask, PostgreSQL and Prisma
+- Designing REST APIs with JWT and Google OAuth authentication
+- Payment integrations (M-Pesa, PayPal, bank) and AWS S3 asset delivery
+- 3D and 360° web experiences with Three.js
+- Live streaming and AV production with vMix, OBS and EasyWorship
+- Graphics and motion design with After Effects
+- Electrical and electronics engineering with Arduino, AutoCAD and MATLAB
 
 ## Featured projects
 
