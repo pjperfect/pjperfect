@@ -10,7 +10,7 @@
 
 <br clear="right" />
 
-## 💻 Tech Stack (clickable)
+## Tech Stack (clickable)
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
@@ -27,7 +27,7 @@
 [![vMix](https://img.shields.io/badge/vMix-1E90FF.svg?style=for-the-badge&logo=livechat&logoColor=white)](https://www.vmix.com/)
 [![EasyWorship](https://img.shields.io/badge/EasyWorship-6A5ACD.svg?style=for-the-badge&logo=windows&logoColor=white)](https://www.easyworship.com/)
 
-## 🌐 Socials
+## Socials
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@cekztech)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pjole.kenya@gmail.com)
@@ -36,14 +36,14 @@
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16.svg?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/32247993/philip-olembo)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254715556379)
 
-## 🚀 Skills
+## Skills
 
 - Building full-stack web apps
 - Streaming/video platforms
 - Graphics design
 
-## 📌 Featured projects
+## Featured projects
 
-- [MeterLink](https://meterlink.vercel.app/) - Electricity token / meter tracking project.
-- [Vision360](https://vision-360-client-frontend.vercel.app/) - Full-stack booking platform for creative spaces, with 360° virtual tours, M-Pesa, PayPal and bank payments, and secure login.
+- [MeterLink](https://meterlink.vercel.app/) — React app that turns pasted KPLC prepaid electricity SMS tokens into spend and usage dashboards.
+- [Vision360](https://vision-360-client-frontend.vercel.app/) — Full-stack booking platform for creative spaces, with 360° virtual tours, M-Pesa, PayPal and bank payments, alongside secure login.
 - [Portfolio](https://pjperfect.github.io/portfolio/) — My personal portfolio showing my software projects, gigs, designs and live streaming work.
