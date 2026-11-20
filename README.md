@@ -2,7 +2,7 @@
 
 <br/>
 
-<img align="right" height="250" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Pastorchris.jpg/500px-Pastorchris.jpg" alt="Pastor Chris" />
+<img align="right" height="250" src="PASTOR CHRIS.jpg" alt="Pastor Chris" />
 
 > ### “If you stick to the Word, you will come back with a testimony!”
 >
